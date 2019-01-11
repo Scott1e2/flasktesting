@@ -1,0 +1,1 @@
+web: funicorn script1:app
